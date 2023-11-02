@@ -8,7 +8,9 @@
   "bugs": "https://github.com/jill64/svelte-lib-template/issues",
   "homepage": "https://github.com/jill64/svelte-lib-template#readme",
   "files": [
-    "dist"
+    "dist",
+		"!**/*.test.*",
+    "!**/*.spec.*"
   ],
   "exports": {
     ".": {
