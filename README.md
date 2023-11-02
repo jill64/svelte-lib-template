@@ -1,2 +1,2 @@
-# svelte-lib-template
-⛩️ Svelte Library Template
+<!----- BEGIN GHOST DOCS HEADER ----->
+<!----- END GHOST DOCS HEADER ----->
