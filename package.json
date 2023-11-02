@@ -9,7 +9,7 @@
   "homepage": "https://github.com/jill64/svelte-lib-template#readme",
   "files": [
     "dist",
-		"!**/*.test.*",
+    "!**/*.test.*",
     "!**/*.spec.*"
   ],
   "exports": {
