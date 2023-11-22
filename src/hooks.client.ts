@@ -1,6 +1,7 @@
-import { PUBLIC_SENTRY_DSN } from '$env/static/public'
 import { clientInit } from '@jill64/sentry-sveltekit-cloudflare'
 
-const onError = clientInit(PUBLIC_SENTRY_DSN)
+const onError = clientInit(
+  'https://bfb3956524176262adb95988bd7f1268@o4505814639312896.ingest.sentry.io/4506267264090112'
+)
 
 export const handleError = onError()
