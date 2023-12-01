@@ -11,6 +11,9 @@ devDependencies:
   '@jill64/playwright-config':
     specifier: 0.0.1
     version: 0.0.1(@playwright/test@1.40.1)
+  '@jill64/prettier-config':
+    specifier: 0.0.1
+    version: 0.0.1
   '@jill64/sentry-sveltekit-cloudflare':
     specifier: 1.4.1
     version: 1.4.1(@sveltejs/kit@1.27.6)
@@ -549,6 +552,10 @@ packages:
       '@playwright/test': ^1.40.0
     dependencies:
       '@playwright/test': 1.40.1
+    dev: true
+
+  /@jill64/prettier-config@0.0.1:
+    resolution: {integrity: sha512-CIFY+UxRAdDGlrmm6b8nMbw+7pLTifR5QANezIyrHMg0oT8jjZSkawcztvcUlTzFKMjCW9yvXiWwCJdRRufjnw==}
     dev: true
 
   /@jill64/sentry-sveltekit-cloudflare@1.4.1(@sveltejs/kit@1.27.6):
