@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   '@jill64/eslint-config-svelte':
-    specifier: 0.0.1
-    version: 0.0.1(svelte@4.2.8)(typescript@5.3.2)
+    specifier: 0.0.3
+    version: 0.0.3(svelte@4.2.8)(typescript@5.3.2)
   '@jill64/playwright-config':
     specifier: 0.0.1
     version: 0.0.1(@playwright/test@1.40.1)
@@ -526,12 +526,13 @@ packages:
       '@sinclair/typebox': 0.27.8
     dev: true
 
-  /@jill64/eslint-config-svelte@0.0.1(svelte@4.2.8)(typescript@5.3.2):
-    resolution: {integrity: sha512-Ha94EYGaPSOR3zK00j4HRkpP7c0rZcgQ43dS8mwk1ClqIXbc0w3VRq0XGmWFki555uuDpzJJLL+BDf/wNK8tUw==}
+  /@jill64/eslint-config-svelte@0.0.3(svelte@4.2.8)(typescript@5.3.2):
+    resolution: {integrity: sha512-41NSubPPUJq2Xugr3GhhyueSPFozYpMtwbVHnD317ErxTeW8qhcYkU3wfylGIu2J8gaTENHzxndNWAmRRqIz3g==}
     peerDependencies:
       svelte: ^4.0.0
     dependencies:
       '@eslint/js': 8.54.0
+      '@types/eslint': 8.44.8
       '@typescript-eslint/eslint-plugin': 6.13.1(@typescript-eslint/parser@6.13.1)(eslint@8.54.0)(typescript@5.3.2)
       '@typescript-eslint/parser': 6.13.1(eslint@8.54.0)(typescript@5.3.2)
       eslint: 8.54.0
@@ -847,6 +848,13 @@ packages:
 
   /@types/cookie@0.5.4:
     resolution: {integrity: sha512-7z/eR6O859gyWIAjuvBWFzNURmf2oPBmJlfVWkwehU5nzIyjwBsTh7WMmEEV4JFnHuQ3ex4oyTvfKzcyJVDBNA==}
+    dev: true
+
+  /@types/eslint@8.44.8:
+    resolution: {integrity: sha512-4K8GavROwhrYl2QXDXm0Rv9epkA8GBFu0EI+XrrnnuCl7u8CWBRusX7fXJfanhZTDWSAL24gDI/UqXyUM0Injw==}
+    dependencies:
+      '@types/estree': 1.0.5
+      '@types/json-schema': 7.0.15
     dev: true
 
   /@types/estree@1.0.5:
