@@ -1,6 +1,6 @@
-import { clientInit } from '@jill64/sentry-sveltekit-cloudflare'
+import { init } from '@jill64/sentry-sveltekit-cloudflare/client'
 
-const onError = clientInit(
+const onError = init(
   'https://bfb3956524176262adb95988bd7f1268@o4505814639312896.ingest.sentry.io/4506267264090112'
 )
 
