@@ -3,14 +3,9 @@
   "description": "⛩️ Svelte Library Template",
   "main": "dist/index.js",
   "type": "module",
-  "license": "MIT",
-  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
-  "bugs": "https://github.com/jill64/svelte-lib-template/issues",
-  "homepage": "https://github.com/jill64/svelte-lib-template#readme",
   "files": [
     "dist",
-    "!**/*.test.*",
-    "!**/*.spec.*"
+    "!**/*.test.*"
   ],
   "exports": {
     ".": {
@@ -19,14 +14,6 @@
       "default": "./dist/index.js"
     }
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jill64/svelte-lib-template.git"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "keywords": [],
   "prettier": "@jill64/prettier-config",
   "scripts": {
     "dev": "vite dev",
