@@ -1,6 +1,5 @@
 {
   "name": "svelte-lib-template",
-  "description": "⛩️ Svelte Library Template",
   "main": "dist/index.js",
   "type": "module",
   "files": [
