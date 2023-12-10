@@ -44,15 +44,15 @@
     "vite": "5.0.7",
     "vitest": "1.0.4"
   },
-  "homepage":"",
+  "homepage": "",
   "author": {
-    "name":"",
-    "image":"",
-    "url":""
-    },
-    "repository":{
-      "type":"git",
-      "url":"",
-      "image":""
-    }
+    "name": "",
+    "image": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "",
+    "image": ""
+  }
 }
