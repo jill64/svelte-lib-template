@@ -23,7 +23,7 @@
     "package": "svelte-kit sync && npx @sveltejs/package && npx publint",
     "check": "svelte-kit sync && npx svelte-check",
     "lint": "npm run check && npx eslint .",
-    "format": "npx @jill64/psx",
+    "format": "npx psvx",
     "test": "vitest",
     "test:e2e": "playwright test"
   },
