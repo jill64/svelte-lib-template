@@ -1,6 +1,8 @@
 {
-  "name": "",
-  "description": "",
+  "name": "xxxxxxxxxxxxxxxxxxxx",
+  "version": "0.0.0",
+  "private": true,
+  "description": "⛩️ Svelte Library Template",
   "main": "dist/index.js",
   "type": "module",
   "files": [
@@ -31,30 +33,36 @@
     "svelte": "^5.0.0"
   },
   "devDependencies": {
-    "@jill64/eslint-config-svelte": "2.0.2",
-    "@jill64/npm-demo-layout": "2.0.7",
-    "@jill64/universal-sanitizer": "1.3.6",
+    "@jill64/eslint-config-svelte": "2.0.4",
+    "@jill64/npm-demo-layout": "2.0.11",
+    "@jill64/universal-sanitizer": "1.4.0",
     "@jill64/playwright-config": "2.4.2",
     "@jill64/prettier-config": "1.0.0",
-    "@jill64/sentry-sveltekit-cloudflare": "2.0.1",
+    "@jill64/sentry-sveltekit-cloudflare": "2.0.5",
     "@playwright/test": "1.49.1",
-    "@sveltejs/adapter-cloudflare": "5.0.0",
-    "@sveltejs/kit": "2.15.1",
-    "svelte": "5.16.2",
-    "typescript": "5.7.2",
-    "vite": "6.0.7",
-    "vitest": "2.1.8",
+    "@sveltejs/adapter-cloudflare": "5.0.1",
+    "@sveltejs/kit": "2.16.0",
+    "svelte": "5.19.0",
+    "typescript": "5.7.3",
+    "vite": "6.0.10",
+    "vitest": "3.0.2",
     "@sveltejs/vite-plugin-svelte": "5.0.3"
   },
-  "homepage": "",
+  "homepage": "https://github.com/jill64/svelte-lib-template#readme",
   "author": {
-    "name": "",
-    "image": "",
-    "url": ""
+    "name": "jill64",
+    "email": "contact@jill64.dev",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
   },
   "repository": {
     "type": "git",
-    "url": "",
-    "image": ""
-  }
+    "url": "git+https://github.com/jill64/svelte-lib-template.git",
+    "image": "https://opengraph.githubassets.com/929d4ba143b3a4703c3bd4ed733bbeaadcd86b4231106770b109aeb01469ef25/jill64/svelte-lib-template"
+  },
+  "bugs": "https://github.com/jill64/svelte-lib-template/issues",
+  "keywords": [
+    "svelte",
+    "template"
+  ]
 }
