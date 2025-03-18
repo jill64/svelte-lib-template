@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-lib-template.git",
-    "image": "https://opengraph.githubassets.com/60bd3e12528b0af5f259cfc4c9e4429687aee875669c0d9b27e465e8bc0cbc7b/jill64/svelte-lib-template"
+    "image": "https://opengraph.githubassets.com/5a86836ec6bb205408b4b8088973aa7ea90eb14c18df937e448ae9f9b7c26763/jill64/svelte-lib-template"
   },
   "bugs": "https://github.com/jill64/svelte-lib-template/issues",
   "keywords": [
