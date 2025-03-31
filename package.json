@@ -43,7 +43,7 @@
     "@sveltejs/kit": "2.20.2",
     "svelte": "5.23.1",
     "typescript": "5.8.2",
-    "vite": "6.2.3",
+    "vite": "6.2.4",
     "@types/bun": "1.2.5",
     "@sveltejs/vite-plugin-svelte": "5.0.3"
   },
@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-lib-template.git",
-    "image": "https://opengraph.githubassets.com/dbb83062a68428b6c2ae78a4fe65793f6bc241ee60422691e9ebe2c886071335/jill64/svelte-lib-template"
+    "image": "https://opengraph.githubassets.com/50d010941b36170920f5c5bf244d83ac6253ee4b5046cbc0ae850fe799cb7b75/jill64/svelte-lib-template"
   },
   "bugs": "https://github.com/jill64/svelte-lib-template/issues",
   "keywords": [
