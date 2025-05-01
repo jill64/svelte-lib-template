@@ -40,7 +40,7 @@
     "@jill64/sentry-sveltekit-cloudflare": "2.0.6",
     "@playwright/test": "1.51.0",
     "@sveltejs/adapter-cloudflare": "7.0.1",
-    "@sveltejs/kit": "2.20.7",
+    "@sveltejs/kit": "2.20.8",
     "svelte": "5.23.1",
     "typescript": "5.8.3",
     "vite": "6.3.4",
@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-lib-template.git",
-    "image": "https://opengraph.githubassets.com/29e1358de316d257df776eafea2f4eaacc11f5e1664b7a1f475e916039d6ade9/jill64/svelte-lib-template"
+    "image": "https://opengraph.githubassets.com/8fd48d9fdb7e731eb1f1d9c2a1fa48463290f77930553db93e81799a7bd1eb9c/jill64/svelte-lib-template"
   },
   "bugs": "https://github.com/jill64/svelte-lib-template/issues",
   "keywords": [
