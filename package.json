@@ -33,7 +33,7 @@
     "svelte": "^5.0.0"
   },
   "devDependencies": {
-    "@jill64/eslint-config-svelte": "2.2.11",
+    "@jill64/eslint-config-svelte": "2.2.12",
     "@jill64/npm-demo-layout": "2.0.23",
     "@jill64/playwright-config": "3.0.0",
     "@jill64/prettier-config": "1.0.0",
@@ -57,7 +57,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-lib-template.git",
-    "image": "https://opengraph.githubassets.com/2b67e5e7b429bae4f6cbf83e1eda6c87ba4b9c2321075dab8241cdadeb3f0f54/jill64/svelte-lib-template"
+    "image": "https://opengraph.githubassets.com/0d2ac080c9f5182cef3fbda8832f86898a001c7048a8daa0d45054bd0bea0468/jill64/svelte-lib-template"
   },
   "bugs": "https://github.com/jill64/svelte-lib-template/issues",
   "keywords": [
